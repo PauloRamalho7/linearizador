@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/14 08:07:46.000.236,=D:\Projetos\Unit1.pas</Transaction>
+    <Transaction>2024/02/14 08:16:08.000.707,D:\Projetos\Unit1.pas=D:\Projetos\Linearizador\Main.pas</Transaction>
+    <Transaction>2024/02/14 08:16:08.000.707,D:\Projetos\Unit1.dfm=D:\Projetos\Linearizador\Main.dfm</Transaction>
+    <Transaction>2024/02/14 09:23:13.000.247,D:\Projetos\Project1.dproj=D:\Projetos\Linearizador\linearizador.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
